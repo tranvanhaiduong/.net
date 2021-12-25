@@ -1,0 +1,9 @@
+D:\C#\GUI_Cafe\BUS\bin\Debug\BUS.dll
+D:\C#\GUI_Cafe\BUS\bin\Debug\BUS.pdb
+D:\C#\GUI_Cafe\BUS\bin\Debug\DAL.dll
+D:\C#\GUI_Cafe\BUS\bin\Debug\DAL.pdb
+D:\C#\GUI_Cafe\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\C#\GUI_Cafe\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\C#\GUI_Cafe\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\C#\GUI_Cafe\BUS\obj\Debug\BUS.dll
+D:\C#\GUI_Cafe\BUS\obj\Debug\BUS.pdb

@@ -1,0 +1,6 @@
+D:\C#\GUI_Cafe\DAL\bin\Debug\DAL.dll
+D:\C#\GUI_Cafe\DAL\bin\Debug\DAL.pdb
+D:\C#\GUI_Cafe\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\C#\GUI_Cafe\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\C#\GUI_Cafe\DAL\obj\Debug\DAL.dll
+D:\C#\GUI_Cafe\DAL\obj\Debug\DAL.pdb
